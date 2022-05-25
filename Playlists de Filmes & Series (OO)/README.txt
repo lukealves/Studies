@@ -1,0 +1,10 @@
+* @property;
+* name;
+* Herança;
+* Generalização/especialização;
+* Método super();
+* Polimorfismo;
+* Herança de um tipo built-in (nativo);
+* Duck typing;
+* Python data (object) model;
+* Dunder methods;
